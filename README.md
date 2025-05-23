@@ -17,7 +17,7 @@ This project demonstrates **image compression using Principal Component Analysis
 ## How to Use
 
 1. Open the `main.m` script file in MATLAB.
-2. Modify the number of principal components used for reconstruction:
+2. Modify the number of principal components used for reconstruction to see the effect of the components used for reconstruction:
    ```matlab
    num_components = 30;
 
