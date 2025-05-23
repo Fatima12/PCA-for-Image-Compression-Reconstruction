@@ -1,7 +1,8 @@
 # PCA-for-Image-Compression-Reconstruction
 
 ![Original Tilted Fingerprint](output.png)
-*Figure 1: OSide-by-side comparison of the original and compressed image.*
+
+*Figure 1: Side-by-side comparison of the original and compressed image.*
 
 # PCA Image Compression
 
