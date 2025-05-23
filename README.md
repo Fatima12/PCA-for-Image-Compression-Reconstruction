@@ -12,7 +12,7 @@ This project demonstrates **image compression using Principal Component Analysis
 - **Deep Learning**: Feature engineering & dimensionality reduction
 - **Digital Signal Processing**: Noise reduction and signal enhancement, e.g. EEG signal denoising
 - **Computer Vision**: Core component of the **Eigenfaces** technique used for face recognition and efficient storage
-- **Spectral feature extraction in audio and speech processing**
+- **Audio and speech processing**: Spectral feature extraction 
 
 ## How to Use
 
