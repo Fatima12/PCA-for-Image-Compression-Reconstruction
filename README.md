@@ -9,10 +9,10 @@
 This project demonstrates **image compression using Principal Component Analysis (PCA)** on a grayscale version of the classic `mandrill` image provided by MATLAB. PCA reduces the dimensionality of image data by projecting it onto a lower-dimensional space, allowing reconstruction using only the most informative components.
 
 ## Applications
-- Deep Learning: Feature engineering & dimensionality reduction
-- Digital Signal Processing: Noise reduction and signal enhancement, e.g. EEG signal denoising
-- Computer Vision: Core component of the **Eigenfaces** technique used for face recognition and efficient storage
-- Spectral feature extraction in audio and speech processing
+- **Deep Learning**: Feature engineering & dimensionality reduction
+- **Digital Signal Processing**: Noise reduction and signal enhancement, e.g. EEG signal denoising
+- **Computer Vision**: Core component of the **Eigenfaces** technique used for face recognition and efficient storage
+- **Spectral feature extraction in audio and speech processing**
 
 ## How to Use
 
