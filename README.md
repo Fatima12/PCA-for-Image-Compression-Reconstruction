@@ -1,3 +1,5 @@
+A project I did as part of a Advanced DSP class project!
+
 # PCA-for-Image-Compression-Reconstruction
 
 ![Original Tilted Fingerprint](output.png)
